@@ -1,10 +1,11 @@
 # Fun w/ R
+[Event on Meetup](https://www.meetup.com/rladies-east-lansing/events/276152415/) | [Video]()
 
 ![map2_cupcakes](https://user-images.githubusercontent.com/8397074/115910798-47d37c00-a43b-11eb-81f5-cb3cc62a73f7.png)
 
 
 ### When?
-Apr 23, 2021 | 1p EST | 5p UTC
+Apr 23, 2021 | 1p EST | 5p UTC <br>
 
 ## Hosted by
 - [R-Ladies East Lansing](https://meetup.com/rladies-east-lansing) | <rladies-eastlansing.github.io> | [@RLadiesELansing](https://twitter.com/RLadiesELansing)
