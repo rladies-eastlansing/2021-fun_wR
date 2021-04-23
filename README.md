@@ -30,7 +30,7 @@ Andrea will present her package, sambaR. sambaR is a simple R package that downl
 
 Map art makes beautiful posters. You can find them all over the internet and buy them even framed for your favorite city, area or country. In this tutorial, inspired by Esteban Moro’s “Personal Art Map with R”, you’ll learn how to create those street maps for your city.
 
-- Material: TBA
+- Material: https://github.com/kaylajohnson/personalized_map_art_w_r/blob/main/personalized_map_art_w_R.Rmd
 - [Twitter](https://twitter.com/kaylainbio)
 
 ## ♟️ Sneha Sundar on chess (by Niklas Fiekas)
